@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pacman.model.utils.SpriteTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-08-09T23:05:14" hostname="laptop" time="0.012">
+  <properties/>
+  <testcase name="Sanity Sprite - Methods definition" classname="edu.uoc.pacman.model.utils.SpriteTest" time="0.007"/>
+  <testcase name="Sanity Sprite - Enum definition" classname="edu.uoc.pacman.model.utils.SpriteTest" time="0.001"/>
+  <testcase name="getSymbol()" classname="edu.uoc.pacman.model.utils.SpriteTest" time="0.0"/>
+  <testcase name="getImageSrc()" classname="edu.uoc.pacman.model.utils.SpriteTest" time="0.0"/>
+  <testcase name="Sanity Sprite - Fields definition" classname="edu.uoc.pacman.model.utils.SpriteTest" time="0.0"/>
+  <system-out><![CDATA[private edu.uoc.pacman.model.utils.Sprite(java.lang.String,int,char,java.lang.String)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

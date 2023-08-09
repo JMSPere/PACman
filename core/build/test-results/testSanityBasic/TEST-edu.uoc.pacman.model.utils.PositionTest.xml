@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pacman.model.utils.PositionTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2023-08-09T23:05:14" hostname="laptop" time="0.019">
+  <properties/>
+  <testcase name="Sanity Position - Class definition" classname="edu.uoc.pacman.model.utils.PositionTest" time="0.0"/>
+  <testcase name="Test of hashCode when returning true" classname="edu.uoc.pacman.model.utils.PositionTest" time="0.0"/>
+  <testcase name="Test of hashCode when returning false" classname="edu.uoc.pacman.model.utils.PositionTest" time="0.002"/>
+  <testcase name="Sanity Position - Methods definition" classname="edu.uoc.pacman.model.utils.PositionTest" time="0.003"/>
+  <testcase name="Test of equals when returning false" classname="edu.uoc.pacman.model.utils.PositionTest" time="0.001"/>
+  <testcase name="Test of equals when returning true" classname="edu.uoc.pacman.model.utils.PositionTest" time="0.001"/>
+  <testcase name="add()" classname="edu.uoc.pacman.model.utils.PositionTest" time="0.001"/>
+  <testcase name="getX()" classname="edu.uoc.pacman.model.utils.PositionTest" time="0.0"/>
+  <testcase name="getY()" classname="edu.uoc.pacman.model.utils.PositionTest" time="0.001"/>
+  <testcase name="setX()" classname="edu.uoc.pacman.model.utils.PositionTest" time="0.001"/>
+  <testcase name="setY()" classname="edu.uoc.pacman.model.utils.PositionTest" time="0.001"/>
+  <testcase name="distance()" classname="edu.uoc.pacman.model.utils.PositionTest" time="0.0"/>
+  <testcase name="Sanity Position - Fields definition" classname="edu.uoc.pacman.model.utils.PositionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

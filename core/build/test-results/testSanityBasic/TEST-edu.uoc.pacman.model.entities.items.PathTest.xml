@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pacman.model.entities.items.PathTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-08-09T23:05:14" hostname="laptop" time="0.034">
+  <properties/>
+  <testcase name="Sanity Path - Class definition" classname="edu.uoc.pacman.model.entities.items.PathTest" time="0.001"/>
+  <testcase name="Sanity Path - Methods definition" classname="edu.uoc.pacman.model.entities.items.PathTest" time="0.009"/>
+  <testcase name="setPosition()" classname="edu.uoc.pacman.model.entities.items.PathTest" time="0.001"/>
+  <testcase name="getPosition()" classname="edu.uoc.pacman.model.entities.items.PathTest" time="0.001"/>
+  <testcase name="setPathable()" classname="edu.uoc.pacman.model.entities.items.PathTest" time="0.003"/>
+  <testcase name="isPathable()" classname="edu.uoc.pacman.model.entities.items.PathTest" time="0.002"/>
+  <testcase name="getSprite()" classname="edu.uoc.pacman.model.entities.items.PathTest" time="0.001"/>
+  <testcase name="Sanity Path - Fields definition" classname="edu.uoc.pacman.model.entities.items.PathTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

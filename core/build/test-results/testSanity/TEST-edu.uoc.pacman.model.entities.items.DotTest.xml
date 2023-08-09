@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pacman.model.entities.items.DotTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-08-09T23:05:24" hostname="laptop" time="0.017">
+  <properties/>
+  <testcase name="Sanity Dot - Class definition" classname="edu.uoc.pacman.model.entities.items.DotTest" time="0.002"/>
+  <testcase name="Sanity Dot - Methods definition" classname="edu.uoc.pacman.model.entities.items.DotTest" time="0.007"/>
+  <testcase name="Sanity Dot - Fields definition" classname="edu.uoc.pacman.model.entities.items.DotTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

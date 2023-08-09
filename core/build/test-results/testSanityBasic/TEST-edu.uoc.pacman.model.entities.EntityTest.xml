@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pacman.model.entities.EntityTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-08-09T23:05:12" hostname="laptop" time="0.009">
+  <properties/>
+  <testcase name="Sanity Entity - Class definition" classname="edu.uoc.pacman.model.entities.EntityTest" time="0.001"/>
+  <testcase name="Sanity Entity - Methods definition" classname="edu.uoc.pacman.model.entities.EntityTest" time="0.003"/>
+  <testcase name="Sanity Entity - Fields definition" classname="edu.uoc.pacman.model.entities.EntityTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

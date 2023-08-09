@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pacman.model.entities.characters.ghosts.ClydeTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-08-09T23:06:26" hostname="laptop" time="0.203">
+  <properties/>
+  <testcase name="Ghost is INACTIVE, then it does not kill Pacman" classname="edu.uoc.pacman.model.entities.characters.ghosts.ClydeTest" time="0.127"/>
+  <testcase name="Ghost is CHASE, then ghost kills Pacman (NORMAL)." classname="edu.uoc.pacman.model.entities.characters.ghosts.ClydeTest" time="0.011"/>
+  <testcase name="Ghost is SCATTER, then ghost kills Pacman (NORMAL)" classname="edu.uoc.pacman.model.entities.characters.ghosts.ClydeTest" time="0.009"/>
+  <testcase name="Ghost is FRIGHTENED, then Pacman (by logical it is EATER) kills ghost" classname="edu.uoc.pacman.model.entities.characters.ghosts.ClydeTest" time="0.01"/>
+  <testcase name="Ghost is SCATTER and Pacman is INVINCIBLE, then ghost does not kills Pacman" classname="edu.uoc.pacman.model.entities.characters.ghosts.ClydeTest" time="0.005"/>
+  <testcase name="Ghost is CHASE and Pacman is INVINCIBLE, then ghost does not kills Pacman" classname="edu.uoc.pacman.model.entities.characters.ghosts.ClydeTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

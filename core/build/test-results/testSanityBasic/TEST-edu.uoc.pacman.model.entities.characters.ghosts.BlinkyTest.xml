@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pacman.model.entities.characters.ghosts.BlinkyTest" tests="25" skipped="0" failures="0" errors="0" timestamp="2023-08-09T23:05:12" hostname="laptop" time="1.149">
+  <properties/>
+  <testcase name="Sanity Blinky - Class definition" classname="edu.uoc.pacman.model.entities.characters.ghosts.BlinkyTest" time="0.967"/>
+  <testcase name="getScatterPosition()" classname="edu.uoc.pacman.model.entities.characters.ghosts.BlinkyTest" time="0.002"/>
+  <testcase name="Sanity Blinky - Methods definition" classname="edu.uoc.pacman.model.entities.characters.ghosts.BlinkyTest" time="0.006"/>
+  <testcase name="setPosition()" classname="edu.uoc.pacman.model.entities.characters.ghosts.BlinkyTest" time="0.002"/>
+  <testcase name="getPosition()" classname="edu.uoc.pacman.model.entities.characters.ghosts.BlinkyTest" time="0.003"/>
+  <testcase name="testReset()" classname="edu.uoc.pacman.model.entities.characters.ghosts.BlinkyTest" time="0.003"/>
+  <testcase name="isDead()" classname="edu.uoc.pacman.model.entities.characters.ghosts.BlinkyTest" time="0.003"/>
+  <testcase name="setPathable()" classname="edu.uoc.pacman.model.entities.characters.ghosts.BlinkyTest" time="0.002"/>
+  <testcase name="testToString()" classname="edu.uoc.pacman.model.entities.characters.ghosts.BlinkyTest" time="0.023"/>
+  <testcase name="getDirection()" classname="edu.uoc.pacman.model.entities.characters.ghosts.BlinkyTest" time="0.002"/>
+  <testcase name="getBehaviour()" classname="edu.uoc.pacman.model.entities.characters.ghosts.BlinkyTest" time="0.002"/>
+  <testcase name="kill()" classname="edu.uoc.pacman.model.entities.characters.ghosts.BlinkyTest" time="0.031"/>
+  <testcase name="alive()" classname="edu.uoc.pacman.model.entities.characters.ghosts.BlinkyTest" time="0.004"/>
+  <testcase name="reset()" classname="edu.uoc.pacman.model.entities.characters.ghosts.BlinkyTest" time="0.007"/>
+  <testcase name="isPathable()" classname="edu.uoc.pacman.model.entities.characters.ghosts.BlinkyTest" time="0.004"/>
+  <testcase name="setDirection()" classname="edu.uoc.pacman.model.entities.characters.ghosts.BlinkyTest" time="0.015"/>
+  <testcase name="getPoints()" classname="edu.uoc.pacman.model.entities.characters.ghosts.BlinkyTest" time="0.01"/>
+  <testcase name="getSprite()" classname="edu.uoc.pacman.model.entities.characters.ghosts.BlinkyTest" time="0.002"/>
+  <testcase name="setBehaviour()" classname="edu.uoc.pacman.model.entities.characters.ghosts.BlinkyTest" time="0.004"/>
+  <testcase name="testEqualsKO()" classname="edu.uoc.pacman.model.entities.characters.ghosts.BlinkyTest" time="0.006"/>
+  <testcase name="testEqualsOK()" classname="edu.uoc.pacman.model.entities.characters.ghosts.BlinkyTest" time="0.002"/>
+  <testcase name="setLevel()" classname="edu.uoc.pacman.model.entities.characters.ghosts.BlinkyTest" time="0.002"/>
+  <testcase name="Sanity Blinky - Fields definition" classname="edu.uoc.pacman.model.entities.characters.ghosts.BlinkyTest" time="0.006"/>
+  <testcase name="correctInstanceChaseBehaviour()" classname="edu.uoc.pacman.model.entities.characters.ghosts.BlinkyTest" time="0.004"/>
+  <testcase name="getLevel()" classname="edu.uoc.pacman.model.entities.characters.ghosts.BlinkyTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pacman.model.LevelTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2023-08-09T23:06:17" hostname="laptop" time="0.15">
+  <properties/>
+  <testcase name="getGhostList()" classname="edu.uoc.pacman.model.LevelTest" time="0.048"/>
+  <testcase name="increaseLives()" classname="edu.uoc.pacman.model.LevelTest" time="0.006"/>
+  <testcase name="decreaseLives()" classname="edu.uoc.pacman.model.LevelTest" time="0.006"/>
+  <testcase name="addPoints()" classname="edu.uoc.pacman.model.LevelTest" time="0.002"/>
+  <testcase name="getBlinky()" classname="edu.uoc.pacman.model.LevelTest" time="0.005"/>
+  <testcase name="isPathable()" classname="edu.uoc.pacman.model.LevelTest" time="0.003"/>
+  <testcase name="getHeight()" classname="edu.uoc.pacman.model.LevelTest" time="0.002"/>
+  <testcase name="getMapItemXY()" classname="edu.uoc.pacman.model.LevelTest" time="0.002"/>
+  <testcase name="getPacman()" classname="edu.uoc.pacman.model.LevelTest" time="0.003"/>
+  <testcase name="getFileName()" classname="edu.uoc.pacman.model.LevelTest" time="0.003"/>
+  <testcase name="setGhostsFrightened()" classname="edu.uoc.pacman.model.LevelTest" time="0.005"/>
+  <testcase name="getMapItemPosition()" classname="edu.uoc.pacman.model.LevelTest" time="0.002"/>
+  <testcase name="getLives()" classname="edu.uoc.pacman.model.LevelTest" time="0.003"/>
+  <testcase name="getScore()" classname="edu.uoc.pacman.model.LevelTest" time="0.003"/>
+  <testcase name="getWidth()" classname="edu.uoc.pacman.model.LevelTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

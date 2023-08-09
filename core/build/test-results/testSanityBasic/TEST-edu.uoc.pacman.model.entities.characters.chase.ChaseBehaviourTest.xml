@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pacman.model.entities.characters.chase.ChaseBehaviourTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-08-09T23:05:12" hostname="laptop" time="0.035">
+  <properties/>
+  <testcase name="Sanity ChaseBehaviour - Methods definition" classname="edu.uoc.pacman.model.entities.characters.chase.ChaseBehaviourTest" time="0.003"/>
+  <testcase name="Sanity ChaseBehaviour - Fields definition" classname="edu.uoc.pacman.model.entities.characters.chase.ChaseBehaviourTest" time="0.01"/>
+  <testcase name="Sanity ChaseBehaviour - Interface definition" classname="edu.uoc.pacman.model.entities.characters.chase.ChaseBehaviourTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

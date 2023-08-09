@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pacman.model.entities.characters.chase.ChasePatrolTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-08-09T23:05:12" hostname="laptop" time="0.028">
+  <properties/>
+  <testcase name="Sanity ChasePatrol - Class definition" classname="edu.uoc.pacman.model.entities.characters.chase.ChasePatrolTest" time="0.007"/>
+  <testcase name="Sanity ChasePatrol - Methods definition" classname="edu.uoc.pacman.model.entities.characters.chase.ChasePatrolTest" time="0.01"/>
+  <testcase name="Sanity ChasePatrol - Fields definition" classname="edu.uoc.pacman.model.entities.characters.chase.ChasePatrolTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

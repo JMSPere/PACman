@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pacman.model.entities.items.DotTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2023-08-09T23:05:14" hostname="laptop" time="0.015">
+  <properties/>
+  <testcase name="Sanity Dot - Class definition" classname="edu.uoc.pacman.model.entities.items.DotTest" time="0.0"/>
+  <testcase name="Sanity Dot - Methods definition" classname="edu.uoc.pacman.model.entities.items.DotTest" time="0.003"/>
+  <testcase name="setPosition()" classname="edu.uoc.pacman.model.entities.items.DotTest" time="0.001"/>
+  <testcase name="getPosition()" classname="edu.uoc.pacman.model.entities.items.DotTest" time="0.0"/>
+  <testcase name="setPathable()" classname="edu.uoc.pacman.model.entities.items.DotTest" time="0.0"/>
+  <testcase name="isPicked()" classname="edu.uoc.pacman.model.entities.items.DotTest" time="0.001"/>
+  <testcase name="isPathable()" classname="edu.uoc.pacman.model.entities.items.DotTest" time="0.001"/>
+  <testcase name="setPicked()" classname="edu.uoc.pacman.model.entities.items.DotTest" time="0.001"/>
+  <testcase name="getPoints()" classname="edu.uoc.pacman.model.entities.items.DotTest" time="0.0"/>
+  <testcase name="getSprite()" classname="edu.uoc.pacman.model.entities.items.DotTest" time="0.001"/>
+  <testcase name="Sanity Dot - Fields definition" classname="edu.uoc.pacman.model.entities.items.DotTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
